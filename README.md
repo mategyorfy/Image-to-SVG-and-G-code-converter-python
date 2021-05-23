@@ -6,7 +6,7 @@ You can visualize the uploaded G-code files using: https://ncviewer.com
 
 ![detection_tab_smaller](https://user-images.githubusercontent.com/57275060/119264561-040f9600-bbe4-11eb-9119-34e07fd50da7.png), ![gcode_generation_tab_smaller](https://user-images.githubusercontent.com/57275060/119264585-1b4e8380-bbe4-11eb-873d-b83d813f3b2b.JPG)
 
-I worked a lot with this project, so I'd like to see some support for it. The software can be downloaded from my Patreon for a  couple of bucks. Of course it's a one time payment. 
+I worked a lot with this project, so I'd like to see some support for my work. The software can be downloaded from my Patreon for a  couple of bucks. Of course it's a one time payment. 
 
 https://www.patreon.com/mateja
 
