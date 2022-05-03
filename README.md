@@ -6,11 +6,8 @@ You can visualize the uploaded G-code files using: https://ncviewer.com
 
 ![detection_tab_smaller](https://user-images.githubusercontent.com/57275060/119264561-040f9600-bbe4-11eb-9119-34e07fd50da7.png), ![gcode_generation_tab_smaller](https://user-images.githubusercontent.com/57275060/119264585-1b4e8380-bbe4-11eb-873d-b83d813f3b2b.JPG)
 
-I worked a lot with this project, so I'd like to see some support for my work. The software can be downloaded from my Patreon for a  couple of bucks. Of course it's a one time payment. 
-
-https://www.patreon.com/mateja
-
-Not saying this is best software for these purposes, but I couldn't find any other software with the same capabilities for a reasonable price, so I think it's not a lot to ask for it. Hope you be able to use my software, and thank you for your support in advance.
+If you'd like to give it a try, the software is downloadble from my hackaday page on this link:
+https://hackaday.io/project/179946-image-to-svg-and-g-code-converter
 
 The source and creater of the image I used to demonstrate the software:
 https://pixabay.com/users/foxpool-19974991/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6008615
